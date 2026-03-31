@@ -1,3 +1,6 @@
 {
+  "outputDirectory": "dist",
+  "buildCommand": "echo 'Using pre-built dist'",
+  "installCommand": "echo 'Skip install'",
   "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
